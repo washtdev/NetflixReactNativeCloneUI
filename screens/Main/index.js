@@ -33,7 +33,7 @@ const mainNavigation = createMaterialBottomTabNavigator({
 	}
 }, {
 	barStyle: {
-		backgroundColor: '#222225'
+		backgroundColor: '#10100F'
 	}
 });
 
